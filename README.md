@@ -2,6 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/OnlineClinicSystem)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Piyushhbhutoria/OnlineClinicSystem)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPiyushhbhutoria%2FOnlineClinicSystem.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPiyushhbhutoria%2FOnlineClinicSystem?ref=badge_shield)
 
 > **Feel Free To Contribute.**
 
@@ -46,3 +47,7 @@ Change credentials in config.php.
 
 Open PHPmyadmin create a database named project.  
 Import the project.sql file in database folder.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPiyushhbhutoria%2FOnlineClinicSystem.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPiyushhbhutoria%2FOnlineClinicSystem?ref=badge_large)
